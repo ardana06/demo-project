@@ -1,2 +1,2 @@
 # demo-project
-just
+hello kubel lab
